@@ -1,4 +1,5 @@
 # Câu lệnh Stata
+
 ### sysuse auto // dùng dữ liệu hệ thống 
 
 ### tab + (biến bất kỳ trong dữ liệu) // xem tần số của 1 biến
@@ -8,7 +9,9 @@
 ### d + (biến bất kỳ trong dữ liệu) // thể hiện tên biến, storange type v.v, tiêu đề của biến
 
 ### clear // xóa hết lệnh đã gõ và data
-
+## những câu lênh t
 ### cd "tên source của m" // đổi directory để save file log cho đúng chỗ (chọn chỗ save file log )
 ### log using "source của m/**tên_file.log**" // tạo file và ghi lại dữ liệu
-**nhớ đặt tên file ending with .log**
+⭐nhớ đặt tên file ending with .log
+
+
