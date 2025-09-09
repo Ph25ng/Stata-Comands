@@ -7,4 +7,4 @@
 
 ### d + (biến bất kỳ trong dữ liệu) // thể hiện tên biến, storange type v.v, tiêu đề của biến
 
-###
+### clear // xóa hết lệnh đã gõ và data
