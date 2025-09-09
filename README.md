@@ -10,4 +10,5 @@
 ### clear // xóa hết lệnh đã gõ và data
 
 ### cd "tên source của m" // đổi directory để save file log cho đúng chỗ (chọn chỗ save file log )
-### log using "source của m/**tên_file.log**" // tạo file
+### log using "source của m/**tên_file.log**" // tạo file và ghi lại dữ liệu
+** nhớ đặt tên file ending with .log **
