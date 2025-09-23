@@ -1,7 +1,7 @@
 # Câu lệnh Stata
 ## dùng dữ liệu hệ thống
-<br>`sysuse auto // dùng dữ liệu hệ thống` 
-<br/>
+`sysuse auto // dùng dữ liệu hệ thống` 
+<br><br/>
 ## xem tần số của 1 biến
 `tab + (biến bất kỳ trong dữ liệu)` 
 - VD: tab foreign
